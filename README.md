@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am currently interning at Carnegie Mellon University Software Engineering Institute as a CERT Risk & Resilience Intern.<br>I am looking to collaborate on building AI projects after college.<br>I am currently learning swift to build an IOS app for my senior capstone project.<br>
+I am currently learning how to build a first person movement game<br>
 
 
 # 💻 Tech Stack:
